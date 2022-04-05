@@ -11,4 +11,4 @@ Describe "My first pester" {
     #}
 }
 
-# Invoke-Pester c:\git\Pester-Talk\2-MyFirstTest.ps1 
+# Invoke-Pester c:\git\Pester-Talk\2-MyFirstTest.ps1 -Show All
