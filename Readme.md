@@ -2,7 +2,8 @@
 
 ## C. David Littlejohn
 
-> Twitter @littlejohnpsh
+* Twitter @littlejohnpsh
+* Github https://github.com/ergo3114/
 
 ## Sponsor: TekSystems
 
